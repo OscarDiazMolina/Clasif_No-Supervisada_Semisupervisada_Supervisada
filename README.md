@@ -2,7 +2,7 @@
 
 
 
-# Clasificación No Supervisadas, Semisupervisadas y Supervisadas para la Caracterización de Yacimientos No Convencionales
+# Clasificación No Supervisada, Semisupervisada y Supervisada para la Caracterización de Yacimientos No Convencionales
 Este repositorio corresponde al proyecto final del Diplomado en Ciencia de Datos de la ENES-UNAM, Unidad León
 
 Esta conformado por el archivo Datos.rar, que contitne:
